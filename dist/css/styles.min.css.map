@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.sass"],"names":[],"mappings":"AAAA,KACI,uBAAwB,CACxB,WAAY","file":"styles.min.css","sourcesContent":["body {\n    background-color: orange;\n    color: black; }\n"]}
